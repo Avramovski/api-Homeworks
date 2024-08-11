@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avram\\OneDrive\\Desktop\\api-Homeworks\\Homework-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D260AE40-4B88-4D95-A16D-B4F756CB7E84}|Homework-01\\Homework-01.csproj|c:\\users\\avram\\onedrive\\desktop\\api-homeworks\\homework-01\\homework-01\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D260AE40-4B88-4D95-A16D-B4F756CB7E84}|Homework-01\\Homework-01.csproj|solutionrelative:homework-01\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D260AE40-4B88-4D95-A16D-B4F756CB7E84}|Homework-01\\Homework-01.csproj|c:\\users\\avram\\onedrive\\desktop\\api-homeworks\\homework-01\\homework-01\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D260AE40-4B88-4D95-A16D-B4F756CB7E84}|Homework-01\\Homework-01.csproj|solutionrelative:homework-01\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1429238158:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\api-Homeworks\\Homework-01\\Homework-01\\StaticDb.cs",
+              "RelativeDocumentMoniker": "Homework-01\\StaticDb.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\api-Homeworks\\Homework-01\\Homework-01\\StaticDb.cs",
+              "RelativeToolTip": "Homework-01\\StaticDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:59:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\api-Homeworks\\Homework-01\\Homework-01\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Homework-01\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\api-Homeworks\\Homework-01\\Homework-01\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Homework-01\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:58:31.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
