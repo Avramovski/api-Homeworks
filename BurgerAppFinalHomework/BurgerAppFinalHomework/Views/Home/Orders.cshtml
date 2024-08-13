@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Domain.Order>
+
+<h2>Orders</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Full Name</th>
+            <th>Address</th>
+            <th>Is Delivered</th>
+            <th>Burgers</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.FullName</td>
+                <td>@order.Address</td>
+                <td>@order.IsDelivered</td>
+                <td>
+                    @foreach (var burgerOrder in order.BurgerOrders)
+                    {
+                        <p>@burgerOrder.Burger.Name</p>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

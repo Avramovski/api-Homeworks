@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Domain.Burger>
+
+<h2>Burgers Menu</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Vegetarian</th>
+            <th>Vegan</th>
+            <th>Has Fries</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var burger in Model)
+        {
+            <tr>
+                <td>@burger.Name</td>
+                <td>@burger.Price:C</td>
+                <td>@burger.IsVegetarian</td>
+                <td>@burger.IsVegan</td>
+                <td>@burger.HasFries</td>
+            </tr>
+        }
+    </tbody>
+</table>
