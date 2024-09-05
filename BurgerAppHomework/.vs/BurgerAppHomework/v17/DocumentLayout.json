@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\views\\order\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\views\\order\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\controllers\\burgerappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\controllers\\burgerappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dtos\\viewmodels\\createordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|solutionrelative:dtos\\viewmodels\\createordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\services\\filterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|solutionrelative:services\\filterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\services\\interfaces\\ifilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ifilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\views\\burgerapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\views\\burgerapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\views\\burgerapp\\addburger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\views\\burgerapp\\addburger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\views\\burgerapp\\editburger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\views\\burgerapp\\editburger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dtos\\viewmodels\\createburgervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|solutionrelative:dtos\\viewmodels\\createburgervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA59349-1B16-42BE-A65E-655181355848}|Domain\\Domain.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA59349-1B16-42BE-A65E-655181355848}|Domain\\Domain.csproj|solutionrelative:domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA59349-1B16-42BE-A65E-655181355848}|Domain\\Domain.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\domain\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA59349-1B16-42BE-A65E-655181355848}|Domain\\Domain.csproj|solutionrelative:domain\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dtos\\viewmodels\\burgervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|solutionrelative:dtos\\viewmodels\\burgervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dataaccess\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\services\\burgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|solutionrelative:services\\burgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\services\\interfaces\\iburgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iburgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dataaccess\\implementations\\burgerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\implementations\\burgerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8130AE2-A06A-480A-8C51-8D42AF043E54}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dtos\\dto\\burgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\burgerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dtos\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dataaccess\\migrations\\20240812184247_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240812184247_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dataaccess\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dataaccess\\burgerappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\burgerappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240812183110_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20240812183110_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dtos\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dto\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC213EDE-1B33-427B-BE5B-4D3077470FFA}|MapperExtensions\\Mapper.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\mapperextensions\\mapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC213EDE-1B33-427B-BE5B-4D3077470FFA}|MapperExtensions\\Mapper.csproj|solutionrelative:mapperextensions\\mapperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA59349-1B16-42BE-A65E-655181355848}|Domain\\Domain.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\domain\\burgerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA59349-1B16-42BE-A65E-655181355848}|Domain\\Domain.csproj|solutionrelative:domain\\burgerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240812181257_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20240812181257_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\burgerapphomework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E91615A-6D69-4E3D-B193-74453D75B7FE}|BurgerAppHomework\\BurgerAppHomework.csproj|solutionrelative:burgerapphomework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dtos\\viewmodels\\editburgervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6465DE0-50E8-4C2B-BE42-DD0F05186E6B}|Dtos\\Dtos.csproj|solutionrelative:dtos\\viewmodels\\editburgervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240811182447_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20240811182447_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240811171604_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20240811171604_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dataaccess\\interfaces\\iburgerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\iburgerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|c:\\users\\avram\\onedrive\\desktop\\doma vezbi\\burgerapphomework\\dataaccess\\implementationsinmemdb\\burgerrepositoryinmbdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71768BB4-1877-4230-B4AE-13A4FAB74572}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\implementationsinmemdb\\burgerrepositoryinmbdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1429238158:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderVm.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\ViewModels\\CreateOrderVm.cs",
+              "RelativeDocumentMoniker": "Dtos\\ViewModels\\CreateOrderVm.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\ViewModels\\CreateOrderVm.cs",
+              "RelativeToolTip": "Dtos\\ViewModels\\CreateOrderVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:46:47.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\BurgerApp\\Index.cshtml",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\Views\\BurgerApp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\BurgerApp\\Index.cshtml",
+              "RelativeToolTip": "BurgerAppHomework\\Views\\BurgerApp\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAIAwwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T13:33:34.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\Order\\AddOrder.cshtml",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\Views\\Order\\AddOrder.cshtml",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\Order\\AddOrder.cshtml",
+              "RelativeToolTip": "BurgerAppHomework\\Views\\Order\\AddOrder.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAArwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T22:00:21.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditBurger.cshtml",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\BurgerApp\\EditBurger.cshtml",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\Views\\BurgerApp\\EditBurger.cshtml",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\BurgerApp\\EditBurger.cshtml",
+              "RelativeToolTip": "BurgerAppHomework\\Views\\BurgerApp\\EditBurger.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:37:55.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BurgerAppController.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Controllers\\BurgerAppController.cs",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\Controllers\\BurgerAppController.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Controllers\\BurgerAppController.cs",
+              "RelativeToolTip": "BurgerAppHomework\\Controllers\\BurgerAppController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAewEcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:52:49.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BurgerAppHomework\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:16:05.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFilterService.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\Interfaces\\IFilterService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFilterService.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\Interfaces\\IFilterService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFilterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:41:49.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Domain\\Burger.cs",
+              "RelativeDocumentMoniker": "Domain\\Burger.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Domain\\Burger.cs",
+              "RelativeToolTip": "Domain\\Burger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:59:46.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BurgerAppHomework\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T16:45:37.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:38:20.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilterService.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\FilterService.cs",
+              "RelativeDocumentMoniker": "Services\\FilterService.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\FilterService.cs",
+              "RelativeToolTip": "Services\\FilterService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:44:03.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBurger.cshtml",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\BurgerApp\\AddBurger.cshtml",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\Views\\BurgerApp\\AddBurger.cshtml",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Views\\BurgerApp\\AddBurger.cshtml",
+              "RelativeToolTip": "BurgerAppHomework\\Views\\BurgerApp\\AddBurger.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T13:26:04.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateBurgerVM.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\ViewModels\\CreateBurgerVM.cs",
+              "RelativeDocumentMoniker": "Dtos\\ViewModels\\CreateBurgerVM.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\ViewModels\\CreateBurgerVM.cs",
+              "RelativeToolTip": "Dtos\\ViewModels\\CreateBurgerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:47:07.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Domain\\Order.cs",
+              "RelativeToolTip": "Domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:59:59.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BurgerService.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\BurgerService.cs",
+              "RelativeDocumentMoniker": "Services\\BurgerService.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\BurgerService.cs",
+              "RelativeToolTip": "Services\\BurgerService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAjwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:45:29.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BurgerVm.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\ViewModels\\BurgerVm.cs",
+              "RelativeDocumentMoniker": "Dtos\\ViewModels\\BurgerVm.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\ViewModels\\BurgerVm.cs",
+              "RelativeToolTip": "Dtos\\ViewModels\\BurgerVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:09:48.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Implementations\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "DataAccess\\Implementations\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:37:59.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBurgerService.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\Interfaces\\IBurgerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBurgerService.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\Interfaces\\IBurgerService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBurgerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:48:07.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BurgerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Implementations\\BurgerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Implementations\\BurgerRepository.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Implementations\\BurgerRepository.cs",
+              "RelativeToolTip": "DataAccess\\Implementations\\BurgerRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAD4vwYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:52:35.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:33:56.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\Dto\\FilterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\FilterDto.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\Dto\\FilterDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\FilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:50:24.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:37:48.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BurgerDto.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\Dto\\BurgerDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\BurgerDto.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\Dto\\BurgerDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\BurgerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:28:04.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\Dto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dto\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\Dto\\OrderDto.cs",
+              "RelativeToolTip": "Dtos\\Dto\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:06:39.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240812184247_new.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240812184247_new.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240812184247_new.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240812184247_new.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240812184247_new.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:42:49.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BurgerAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\BurgerAppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\BurgerAppDbContext.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\BurgerAppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\BurgerAppDbContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:36:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240812183110_new.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240812183110_new.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240812183110_new.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240812183110_new.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240812183110_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:31:10.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InMemoryDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\InMemoryDataBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\InMemoryDataBase.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\InMemoryDataBase.cs",
+              "RelativeToolTip": "DataAccess\\InMemoryDataBase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCoAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:13:23.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MapperExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\MapperExtensions\\MapperExtensions.cs",
+              "RelativeDocumentMoniker": "MapperExtensions\\MapperExtensions.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\MapperExtensions\\MapperExtensions.cs",
+              "RelativeToolTip": "MapperExtensions\\MapperExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:59:34.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BurgerOrder.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Domain\\BurgerOrder.cs",
+              "RelativeDocumentMoniker": "Domain\\BurgerOrder.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Domain\\BurgerOrder.cs",
+              "RelativeToolTip": "Domain\\BurgerOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:05:20.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240812181257_new.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240812181257_new.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240812181257_new.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240812181257_new.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240812181257_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:12:57.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Program.cs",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\Program.cs",
+              "RelativeToolTip": "BurgerAppHomework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:16:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\appsettings.json",
+              "RelativeDocumentMoniker": "BurgerAppHomework\\appsettings.json",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\BurgerAppHomework\\appsettings.json",
+              "RelativeToolTip": "BurgerAppHomework\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T16:47:48.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditBurgerVm.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\ViewModels\\EditBurgerVm.cs",
+              "RelativeDocumentMoniker": "Dtos\\ViewModels\\EditBurgerVm.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\Dtos\\ViewModels\\EditBurgerVm.cs",
+              "RelativeToolTip": "Dtos\\ViewModels\\EditBurgerVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:29:00.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240811171604_Data.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240811171604_Data.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240811171604_Data.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240811171604_Data.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240811171604_Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T17:16:04.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240811182447_Data.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240811182447_Data.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240811182447_Data.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Migrations\\20240811182447_Data.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240811182447_Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:24:47.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IBurgerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Interfaces\\IBurgerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IBurgerRepository.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\Interfaces\\IBurgerRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\IBurgerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:40:26.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BurgerRepositoryInMbDb.cs",
+              "DocumentMoniker": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\ImplementationsInMemDb\\BurgerRepositoryInMbDb.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ImplementationsInMemDb\\BurgerRepositoryInMbDb.cs",
+              "ToolTip": "C:\\Users\\avram\\OneDrive\\Desktop\\doma vezbi\\BurgerAppHomework\\DataAccess\\ImplementationsInMemDb\\BurgerRepositoryInMbDb.cs",
+              "RelativeToolTip": "DataAccess\\ImplementationsInMemDb\\BurgerRepositoryInMbDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:23:35.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

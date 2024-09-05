@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Dtos.Dtos.BurgerDto>
+
+<h2>Burger Menu</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Is Vegetarian</th>
+            <th>Is Vegan</th>
+            <th>Has Fries</th>
+            <th>Actions</th>
+            <th>Actions</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var burger in Model)
+        {
+            <tr>
+                <td>@burger.Name</td>
+                <td>@burger.Price</td>
+                <td>@burger.IsVegetarian</td>
+                <td>@burger.IsVegan</td>
+                <td>@burger.HasFries </td>
+                <td>
+                    <form asp-action="RemoveBurger" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@burger.Id" />
+                        <button type="submit" class="btn btn-danger">Remove</button>
+                    </form>
+                </td>      <td>
+                    <form asp-action="EditBurger" method="post" style="display:inline;">
+                        <input type="hidden" name="id" value="@burger.Id" />
+                        <button type="submit" class="btn btn-danger">Edit</button>
+                    </form>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="AddBurger" class="btn btn-outline-primary">Create Burger</a>
+<p>
+    <a asp-controller="Order" asp-action="AddOrder" class="btn btn-primary">Add New Order</a>
+</p>
+
